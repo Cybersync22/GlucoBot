@@ -1,1 +1,2 @@
-# GlucoBot
+# 🩺 GlucoBot
+
