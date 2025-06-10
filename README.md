@@ -1,4 +1,4 @@
-# 🩺 GlucoBot : AI-powered Diabetes Risk Predictor 
+# <p align="center"> 🩺 GlucoBot : AI-powered Diabetes Risk Predictor </p>
 
 <p align="center"> 
 
@@ -54,10 +54,9 @@ GlucoBot is a smart AI-powered web application that predicts diabetes based on v
 - Seaborn
   <p> (Install using pip install -r requirements.txt) </p>
 
-- Clone the repo
+- Clone the repository
 - Run the Streamlit app
   <p> (streamlit run app.py) </p>
 
-### ✨ Credits
-Developed by Haimanti Chakraborty 
-<p> AI Project </p>
+
+##### <p align="right"> ~ Developed by Haimanti Chakraborty </p>
