@@ -15,3 +15,14 @@ GlucoBot is a smart AI-powered web application that predicts diabetes based on v
 - Model Training: Selecting the best classifier model through evaluation.
 
 - Deployment: User-friendly interface via Streamlit for real-time prediction.
+
+## 📈 Input Features Used (from dataset_diabetes.csv)
+
+## 🖥️ Tech Stack 
+
+- **Python:** The primary programming language used for development.
+- **scikit-learn:** A comprehensive machine learning library for various tasks like model selection (`train_test_split`), preprocessing (`StandardScaler`, `LabelEncoder`), and evaluation          metrics (`accuracy_score`, `confusion_matrix`, `classification_report`, `roc_curve`, `auc`).
+- **XGBoost:** An optimized distributed gradient boosting library designed for speed and performance.
+- **Joblib:** Used for saving and loading Python objects, particularly trained machine learning models.
+- **Seaborn:** A data visualization library based on matplotlib, used for creating informative and attractive statistical graphics (e.g., `confusion_matrix` visualizations).
+- **Matplotlib:** A fundamental plotting library for creating static, interactive, and animated visualizations in Python.
