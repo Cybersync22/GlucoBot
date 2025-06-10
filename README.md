@@ -43,4 +43,21 @@ GlucoBot is a smart AI-powered web application that predicts diabetes based on v
 - **Seaborn:** A data visualization library based on matplotlib, used for creating informative and attractive statistical graphics (e.g., `confusion_matrix` visualizations).
 - **Matplotlib:** A fundamental plotting library for creating static, interactive, and animated visualizations in Python.
 
+## 🛠️ Installation Guide 
+### Requirements
+- Python 3.7+
+- Streamlit
+- scikit-learn
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+  <p> (Install using pip install -r requirements.txt) </p>
 
+- Clone the repo
+- Run the Streamlit app
+  <p> (streamlit run app.py) </p>
+
+### ✨ Credits
+Developed by Haimanti Chakraborty 
+<p> AI Project </p>
