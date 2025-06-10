@@ -22,15 +22,15 @@ GlucoBot is a smart AI-powered web application that predicts diabetes based on v
 - Deployment: User-friendly interface via Streamlit for real-time prediction.
 
 ## 📈 Input Features Used (from dataset_diabetes.csv)
-- Gender	
-- Age	
-- Height	
-- Weight	
-- Hypertension	
-- Heart Disease	
+- Gender (Male/Female)
+- Age	in years
+- Height in cm
+- Weight	in kg
+- Hypertension (0 = No, 1 = Yes)	
+- Heart Disease	(0 = No, 1 = Yes)
 - Smoking History	
 - HbA1c Level	
-- Blood Sugar Level	Numeric	Fasting Blood Glucose in mg/dL
+- Blood Sugar Level (Fasting Blood Glucose) in mg/dL
 
 ## ✅ Target Feature
 - Risk of Diabetes
