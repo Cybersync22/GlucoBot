@@ -1,4 +1,12 @@
-# 🩺 GlucoBot
+# 🩺 GlucoBot : AI-powered Diabetes Risk Predictor 
+
+<p align="center"> 
+
+![image](https://github.com/user-attachments/assets/6f8dddec-090f-463c-8c52-7f2aa8ac6a37) 
+
+![image](https://github.com/user-attachments/assets/3b4a9643-58fa-4712-b7f8-f182d4aebb49)
+
+</p>
 
 ## 📝 Problem Statement
 Diabetes is a chronic disease affecting millions globally. Early prediction and intervention can significantly reduce complications and healthcare costs. However, many at-risk individuals go undiagnosed due to lack of awareness or access to diagnostic tools.
@@ -26,3 +34,5 @@ GlucoBot is a smart AI-powered web application that predicts diabetes based on v
 - **Joblib:** Used for saving and loading Python objects, particularly trained machine learning models.
 - **Seaborn:** A data visualization library based on matplotlib, used for creating informative and attractive statistical graphics (e.g., `confusion_matrix` visualizations).
 - **Matplotlib:** A fundamental plotting library for creating static, interactive, and animated visualizations in Python.
+
+
