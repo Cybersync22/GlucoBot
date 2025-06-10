@@ -17,17 +17,25 @@ Diabetes is a chronic disease affecting millions globally. Early prediction and 
 GlucoBot is a smart AI-powered web application that predicts diabetes based on various user inputs such as age, gender, weight, height, blood sugar levels, HbA1c and lifestyle factors. The solution consists of:
 
 - Data Collection: Clean, structured dataset of anonymized health records.
-
 - Preprocessing: Handling missing data, encoding categorical variables, scaling numeric features.
-
 - Model Training: Selecting the best classifier model through evaluation.
-
 - Deployment: User-friendly interface via Streamlit for real-time prediction.
 
 ## 📈 Input Features Used (from dataset_diabetes.csv)
+- Gender	
+- Age	
+- Height	
+- Weight	
+- Hypertension	
+- Heart Disease	
+- Smoking History	
+- HbA1c Level	
+- Blood Sugar Level	Numeric	Fasting Blood Glucose in mg/dL
+
+## ✅ Target Feature
+- Risk of Diabetes
 
 ## 🖥️ Tech Stack 
-
 - **Python:** The primary programming language used for development.
 - **scikit-learn:** A comprehensive machine learning library for various tasks like model selection (`train_test_split`), preprocessing (`StandardScaler`, `LabelEncoder`), and evaluation          metrics (`accuracy_score`, `confusion_matrix`, `classification_report`, `roc_curve`, `auc`).
 - **XGBoost:** An optimized distributed gradient boosting library designed for speed and performance.
