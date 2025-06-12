@@ -1,4 +1,4 @@
-# <p align="center"> 🩺 GlucoBot : AI-powered Diabetes Risk Predictor </p>
+# <p align="center"> 🩺 GlucoBot : AI-powered Diabetes Risk Predictor</p>
 
 <p align="center"> 
 
